@@ -1,6 +1,6 @@
 # 朱 (ake) — community-edit membrane
 
-Canonical repository: `etzhayyim/actor-ake`. This is a governed executable
+Canonical repository: `cloud-itonami/actor-ake`. This is a governed executable
 organ of the Tamaki-centered Etzhayyim artificial organism. It owns the
 member-signed correction membrane, not Tamaki's organism authority or the KG
 records that sibling actors own. The former repository name
